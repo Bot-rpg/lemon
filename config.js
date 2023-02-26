@@ -1,13 +1,13 @@
-global.you = ['6285380166282'] 
+global.you = ['6281227607864'] 
 //Developer Bot
-global.namebot = 'Maxxybotz'
-global.rowner = ['6285380166282', '6285380166282'] // Real Owner Bot
-global.owner = ['6285380166282'] // Owner Bot
+global.namebot = 'hendra'
+global.rowner = ['6281227607864', '6281227607864'] // Real Owner Bot
+global.owner = ['6281227607864'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.helper = ['6285380166282']
+global.helper = ['6281227607864']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -77,17 +77,17 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 //global sosialmedia maxxy
-global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/JarotOffc?tab=repositories"
-global.sgc = 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
-global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/K5zLkt3E6Ty1IZfSagtGuM'
-global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/maxxystore__'
-global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://www.youtube.com/@MaxxyBotz'
-global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
-global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
+global.sc = "⫹⫺ Nih Jangan Lupa subcribe https://youtube.com/@hidayah-99"
+global.sgc = 'https://chat.whatsapp.com/KZKNlYxG1gpJDrkKwuOXm5'
+global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KZKNlYxG1gpJDrkKwuOXm5'
+global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://youtube.com/@hidayah-99'
+global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@hidayah-99'
+global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KZKNlYxG1gpJDrkKwuOXm5'
+global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KZKNlYxG1gpJDrkKwuOXm5'
 // Sticker WM
-global.packname = 'Maxxy Bots'
-global.author = 'Maxxy Botz'
-global.wm = '© Maxxy Botz'
+global.packname = 'yura Bots'
+global.author = 'hendra Botz'
+global.wm = '© Hendra Lubeck'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
